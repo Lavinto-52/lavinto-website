@@ -1,0 +1,361 @@
+div#container
+{
+   width: 1200px;
+   position: relative;
+   margin: 0 auto 0 auto;
+   text-align: left;
+}
+body
+{
+   background-color: #FFFFFF;
+   color: #000000;
+   font-family: Arial;
+   font-weight: normal;
+   font-size: 16px;
+   line-height: 1.1875;
+   margin: 0;
+   text-align: center;
+}
+#Shape5
+{
+   border-width: 0;
+   vertical-align: top;
+}
+#Layer2
+{
+   background-color: transparent;
+   background-image: url('images/vecteezy_a-smiling-woman-wearing-a-headset-in-an-office_67826322.jpg');
+   background-repeat: repeat;
+   background-position: center center;
+   background-size: cover;
+   border-radius: 0px;
+   margin: 0;
+}
+#Layer2-overlay
+{
+   position: absolute;
+   top: 0;
+   right: 0;
+   bottom: 0;
+   left: 0;
+   border-radius: 0px;
+   background-image: linear-gradient(45deg, #FFFFFF 0%, rgba(255,255,255,0.00) 100%);
+}
+#Shape4
+{
+   border-width: 0;
+   vertical-align: top;
+}
+#wb_Text7 
+{
+   background-color: transparent;
+   background-image: none;
+   border: 0px solid #000000;
+   border-radius: 0px;
+   padding: 0;
+   margin: 0;
+   text-align: left;
+}
+#wb_Text7 div
+{
+   text-align: left;
+}
+#wb_Text3 
+{
+   background-color: transparent;
+   background-image: none;
+   border: 0px solid #000000;
+   border-radius: 0px;
+   padding: 0;
+   margin: 0;
+   text-align: left;
+}
+#wb_Text3 div
+{
+   text-align: left;
+}
+#wb_Text5 
+{
+   background-color: transparent;
+   background-image: none;
+   border: 0px solid #000000;
+   border-radius: 0px;
+   padding: 0;
+   margin: 0;
+   text-align: left;
+}
+#wb_Text5 div
+{
+   text-align: left;
+}
+#wb_Icon3
+{
+   background-color: transparent;
+   background-image: none;
+   border: 0px solid #245580;
+   border-radius: 0px;
+   text-align: center;
+   margin: 0;
+   padding: 0;
+   vertical-align: top;
+}
+#Icon3
+{
+   height: 39px;
+   width: 36px;
+   display: flex;
+   flex-wrap: nowrap;
+   justify-content: center;
+}
+#Icon3 i
+{
+   color: #EB2027;
+   display: inline-block;
+   font-size: 36px;
+   line-height: 39px;
+   vertical-align: middle;
+}
+#wb_Icon3:hover #Icon3 i
+{
+   color: #EB2027;
+}
+#wb_Icon2
+{
+   background-color: transparent;
+   background-image: none;
+   border: 0px solid #245580;
+   border-radius: 0px;
+   text-align: center;
+   margin: 0;
+   padding: 0;
+   vertical-align: top;
+}
+#Icon2
+{
+   height: 39px;
+   width: 36px;
+   display: flex;
+   flex-wrap: nowrap;
+   justify-content: center;
+}
+#Icon2 i
+{
+   color: #EB2027;
+   display: inline-block;
+   font-size: 36px;
+   line-height: 39px;
+   vertical-align: middle;
+}
+#wb_Icon2:hover #Icon2 i
+{
+   color: #EB2027;
+}
+#wb_Icon1
+{
+   background-color: transparent;
+   background-image: none;
+   border: 0px solid #245580;
+   border-radius: 0px;
+   text-align: center;
+   margin: 0;
+   padding: 0;
+   vertical-align: top;
+}
+#Icon1
+{
+   height: 39px;
+   width: 36px;
+   display: flex;
+   flex-wrap: nowrap;
+   justify-content: center;
+}
+#Icon1 i
+{
+   color: #EB2027;
+   display: inline-block;
+   font-size: 36px;
+   line-height: 39px;
+   vertical-align: middle;
+}
+#wb_Icon1:hover #Icon1 i
+{
+   color: #EB2027;
+}
+#wb_Text2 
+{
+   background-color: transparent;
+   background-image: none;
+   border: 0px solid #000000;
+   border-radius: 0px;
+   padding: 0;
+   margin: 0;
+   text-align: center;
+}
+#wb_Text2 div
+{
+   text-align: center;
+}
+#wb_Text8 
+{
+   background-color: transparent;
+   background-image: none;
+   border: 0px solid #000000;
+   border-radius: 0px;
+   padding: 0;
+   margin: 0;
+   text-align: left;
+}
+#wb_Text8 div
+{
+   text-align: left;
+}
+#wb_Text9 
+{
+   background-color: transparent;
+   background-image: none;
+   border: 0px solid #000000;
+   border-radius: 0px;
+   padding: 0;
+   margin: 0;
+   text-align: left;
+}
+#wb_Text9 div
+{
+   text-align: left;
+}
+#wb_Text10 
+{
+   background-color: transparent;
+   background-image: none;
+   border: 0px solid #000000;
+   border-radius: 0px;
+   padding: 0;
+   margin: 0;
+   text-align: left;
+}
+#wb_Text10 div
+{
+   text-align: left;
+}
+#wb_Icon4
+{
+   background-color: transparent;
+   background-image: none;
+   border: 0px solid #245580;
+   border-radius: 0px;
+   text-align: center;
+   margin: 0;
+   padding: 0;
+   vertical-align: top;
+}
+#Icon4
+{
+   height: 29px;
+   width: 32px;
+   display: flex;
+   flex-wrap: nowrap;
+   justify-content: center;
+}
+#Icon4 i
+{
+   color: #EB2027;
+   display: inline-block;
+   font-size: 29px;
+   line-height: 29px;
+   vertical-align: middle;
+}
+#wb_Icon4:hover #Icon4 i
+{
+   color: #EB2027;
+}
+#wb_Icon5
+{
+   background-color: transparent;
+   background-image: none;
+   border: 0px solid #245580;
+   border-radius: 0px;
+   text-align: center;
+   margin: 0;
+   padding: 0;
+   vertical-align: top;
+}
+#Icon5
+{
+   height: 29px;
+   width: 32px;
+   display: flex;
+   flex-wrap: nowrap;
+   justify-content: center;
+}
+#Icon5 i
+{
+   color: #EB2027;
+   display: inline-block;
+   font-size: 29px;
+   line-height: 29px;
+   vertical-align: middle;
+}
+#wb_Icon5:hover #Icon5 i
+{
+   color: #EB2027;
+}
+#wb_Icon6
+{
+   background-color: transparent;
+   background-image: none;
+   border: 0px solid #245580;
+   border-radius: 0px;
+   text-align: center;
+   margin: 0;
+   padding: 0;
+   vertical-align: top;
+}
+#Icon6
+{
+   height: 29px;
+   width: 32px;
+   display: flex;
+   flex-wrap: nowrap;
+   justify-content: center;
+}
+#Icon6 i
+{
+   color: #EB2027;
+   display: inline-block;
+   font-size: 29px;
+   line-height: 29px;
+   vertical-align: middle;
+}
+#wb_Icon6:hover #Icon6 i
+{
+   color: #EB2027;
+}
+#Button1
+{
+   box-sizing: border-box;
+   line-height: 29px;
+   text-decoration: none;
+   vertical-align: top;
+   border: 0px solid #0D6EFD;
+   border-radius: 10px;
+   background-color: #EB2027;
+   background-image: none;
+   color: #FFFFFF;
+   font-family: Arial;
+   font-weight: normal;
+   font-style: normal;
+   font-size: 16px;
+   padding: 1px 6px 1px 6px;
+   text-align: center;
+   -webkit-appearance: none;
+   margin: 0;
+}
+#Button1:focus
+{
+   outline: 0;
+}
+#Button1:hover
+{
+   background-color: #0000CD;
+   transition: background-color 500ms linear 0ms;
+}
